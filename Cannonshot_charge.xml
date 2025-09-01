@@ -246,7 +246,7 @@
       <TargetingList>
         <Targeting id="-1" type="no" abnormalityOnHit="0" abnormalityOnHitProb="1.000000" alwaysSecondHit="false">
           <AreaList>
-            <Area type="enemyOrPvp" selectMethod="dist" maxCount="1" minRadius="0.000000" maxRadius="1000" rangeAngle="0.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="0.000000" maxHeight="60.000000" setRangeHeightToGround="false" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
+            <Area type="enemyOrPvp" selectMethod="dist" maxCount="1" minRadius="0.000000" maxRadius="0.000000" rangeAngle="0.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="0.000000" maxHeight="60.000000" setRangeHeightToGround="false" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
               <Effect atk="0.000000" abnormalityRate="0.000000">
                 <AggroDiff value="0" />
                 <AngerDiff value="0" />
@@ -263,7 +263,7 @@
         </Targeting>
         <Targeting abnormalityOnHit="0" alwaysSecondHit="true" type="second_hit" id="-1" mpBonusTypeB="100" mpBonusOnlyOne="true" stBonusTypeB="0" stBonusOnlyOne="true" abnormalityOnHitProb="1.000000">
           <AreaList>
-            <Area minRadius="0.000000" maxRadius="1000" rangeAngle="360.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="-40.000000" maxHeight="40.000000" setRangeHeightToGround="false" type="enemyOrPvp" selectMethod="dist" maxCount="20" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
+            <Area minRadius="0.000000" maxRadius="30.000000" rangeAngle="360.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="-40.000000" maxHeight="40.000000" setRangeHeightToGround="false" type="enemyOrPvp" selectMethod="dist" maxCount="20" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
               <Effect atk="1.000000">
                 <AggroDiff value="0" />
                 <AngerDiff value="0" />
@@ -528,7 +528,7 @@
       <TargetingList>
         <Targeting id="-1" type="no" abnormalityOnHit="0" abnormalityOnHitProb="1.000000" alwaysSecondHit="false">
           <AreaList>
-            <Area type="enemyOrPvp" selectMethod="dist" maxCount="1" minRadius="0.000000" maxRadius="1000" rangeAngle="0.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="0.000000" maxHeight="60.000000" setRangeHeightToGround="false" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
+            <Area type="enemyOrPvp" selectMethod="dist" maxCount="1" minRadius="0.000000" maxRadius="0.000000" rangeAngle="0.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="0.000000" maxHeight="60.000000" setRangeHeightToGround="false" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
               <Effect atk="0.000000" abnormalityRate="0.000000">
                 <AggroDiff value="0" />
                 <AngerDiff value="0" />
@@ -545,7 +545,7 @@
         </Targeting>
         <Targeting abnormalityOnHit="0" alwaysSecondHit="true" type="second_hit" id="-1" mpBonusTypeB="100" mpBonusOnlyOne="true" stBonusTypeB="0" stBonusOnlyOne="true" abnormalityOnHitProb="1.000000">
           <AreaList>
-            <Area minRadius="0.000000" maxRadius="1000" rangeAngle="360.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="-40.000000" maxHeight="40.000000" setRangeHeightToGround="false" type="enemyOrPvp" selectMethod="dist" maxCount="20" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
+            <Area minRadius="0.000000" maxRadius="30.000000" rangeAngle="360.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="-40.000000" maxHeight="40.000000" setRangeHeightToGround="false" type="enemyOrPvp" selectMethod="dist" maxCount="20" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
               <Effect atk="1.000000">
                 <AggroDiff value="0" />
                 <AngerDiff value="0" />
@@ -810,7 +810,7 @@
       <TargetingList>
         <Targeting id="-1" type="no" abnormalityOnHit="0" abnormalityOnHitProb="1.000000" alwaysSecondHit="false">
           <AreaList>
-            <Area type="enemyOrPvp" selectMethod="dist" maxCount="1" minRadius="0.000000" maxRadius="1000" rangeAngle="0.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="0.000000" maxHeight="60.000000" setRangeHeightToGround="false" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
+            <Area type="enemyOrPvp" selectMethod="dist" maxCount="1" minRadius="0.000000" maxRadius="0.000000" rangeAngle="0.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="0.000000" maxHeight="60.000000" setRangeHeightToGround="false" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
               <Effect atk="0.000000" abnormalityRate="0.000000">
                 <AggroDiff value="0" />
                 <AngerDiff value="0" />
@@ -827,7 +827,7 @@
         </Targeting>
         <Targeting abnormalityOnHit="0" alwaysSecondHit="true" type="second_hit" id="-1" mpBonusTypeB="100" mpBonusOnlyOne="true" stBonusTypeB="0" stBonusOnlyOne="true" abnormalityOnHitProb="1.000000">
           <AreaList>
-            <Area minRadius="0.000000" maxRadius="1000" rangeAngle="360.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="-40.000000" maxHeight="40.000000" setRangeHeightToGround="false" type="enemyOrPvp" selectMethod="dist" maxCount="20" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
+            <Area minRadius="0.000000" maxRadius="30.000000" rangeAngle="360.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="-40.000000" maxHeight="40.000000" setRangeHeightToGround="false" type="enemyOrPvp" selectMethod="dist" maxCount="20" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
               <Effect atk="1.000000">
                 <AggroDiff value="0" />
                 <AngerDiff value="0" />
@@ -1092,7 +1092,7 @@
       <TargetingList>
         <Targeting id="-1" type="no" abnormalityOnHit="0" abnormalityOnHitProb="1.000000" alwaysSecondHit="false">
           <AreaList>
-            <Area type="enemyOrPvp" selectMethod="dist" maxCount="1" minRadius="0.000000" maxRadius="1000" rangeAngle="0.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="0.000000" maxHeight="60.000000" setRangeHeightToGround="false" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
+            <Area type="enemyOrPvp" selectMethod="dist" maxCount="1" minRadius="0.000000" maxRadius="0.000000" rangeAngle="0.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="0.000000" maxHeight="60.000000" setRangeHeightToGround="false" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
               <Effect atk="0.000000" abnormalityRate="0.000000">
                 <AggroDiff value="0" />
                 <AngerDiff value="0" />
@@ -1109,7 +1109,7 @@
         </Targeting>
         <Targeting abnormalityOnHit="0" alwaysSecondHit="true" type="second_hit" id="-1" mpBonusTypeB="100" mpBonusOnlyOne="true" stBonusTypeB="0" stBonusOnlyOne="true" abnormalityOnHitProb="1.000000">
           <AreaList>
-            <Area minRadius="0.000000" maxRadius="1000" rangeAngle="360.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="-40.000000" maxHeight="40.000000" setRangeHeightToGround="false" type="enemyOrPvp" selectMethod="dist" maxCount="20" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
+            <Area minRadius="0.000000" maxRadius="30.000000" rangeAngle="360.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="-40.000000" maxHeight="40.000000" setRangeHeightToGround="false" type="enemyOrPvp" selectMethod="dist" maxCount="20" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
               <Effect atk="1.000000">
                 <AggroDiff value="0" />
                 <AngerDiff value="0" />
@@ -1374,7 +1374,7 @@
       <TargetingList>
         <Targeting id="-1" type="no" abnormalityOnHit="0" abnormalityOnHitProb="1.000000" alwaysSecondHit="false">
           <AreaList>
-            <Area type="enemyOrPvp" selectMethod="dist" maxCount="1" minRadius="0.000000" maxRadius="1000" rangeAngle="0.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="0.000000" maxHeight="60.000000" setRangeHeightToGround="false" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
+            <Area type="enemyOrPvp" selectMethod="dist" maxCount="1" minRadius="0.000000" maxRadius="0.000000" rangeAngle="0.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="0.000000" maxHeight="60.000000" setRangeHeightToGround="false" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
               <Effect atk="0.000000" abnormalityRate="0.000000">
                 <AggroDiff value="0" />
                 <AngerDiff value="0" />
@@ -1391,7 +1391,7 @@
         </Targeting>
         <Targeting abnormalityOnHit="0" alwaysSecondHit="true" type="second_hit" id="-1" mpBonusTypeB="100" mpBonusOnlyOne="true" stBonusTypeB="0" stBonusOnlyOne="true" abnormalityOnHitProb="1.000000">
           <AreaList>
-            <Area minRadius="0.000000" maxRadius="1000" rangeAngle="360.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="-40.000000" maxHeight="40.000000" setRangeHeightToGround="false" type="enemyOrPvp" selectMethod="dist" maxCount="20" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
+            <Area minRadius="0.000000" maxRadius="30.000000" rangeAngle="360.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="-40.000000" maxHeight="40.000000" setRangeHeightToGround="false" type="enemyOrPvp" selectMethod="dist" maxCount="20" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
               <Effect atk="1.000000">
                 <AggroDiff value="0" />
                 <AngerDiff value="0" />
@@ -1656,7 +1656,7 @@
       <TargetingList>
         <Targeting id="-1" type="no" abnormalityOnHit="0" abnormalityOnHitProb="1.000000" alwaysSecondHit="false">
           <AreaList>
-            <Area type="enemyOrPvp" selectMethod="dist" maxCount="1" minRadius="0.000000" maxRadius="1000" rangeAngle="0.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="0.000000" maxHeight="60.000000" setRangeHeightToGround="false" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
+            <Area type="enemyOrPvp" selectMethod="dist" maxCount="1" minRadius="0.000000" maxRadius="0.000000" rangeAngle="0.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="0.000000" maxHeight="60.000000" setRangeHeightToGround="false" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
               <Effect atk="0.000000" abnormalityRate="0.000000">
                 <AggroDiff value="0" />
                 <AngerDiff value="0" />
@@ -1673,7 +1673,7 @@
         </Targeting>
         <Targeting abnormalityOnHit="0" alwaysSecondHit="true" type="second_hit" id="-1" mpBonusTypeB="100" mpBonusOnlyOne="true" stBonusTypeB="0" stBonusOnlyOne="true" abnormalityOnHitProb="1.000000">
           <AreaList>
-            <Area minRadius="0.000000" maxRadius="1000" rangeAngle="360.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="-40.000000" maxHeight="40.000000" setRangeHeightToGround="false" type="enemyOrPvp" selectMethod="dist" maxCount="20" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
+            <Area minRadius="0.000000" maxRadius="30.000000" rangeAngle="360.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="-40.000000" maxHeight="40.000000" setRangeHeightToGround="false" type="enemyOrPvp" selectMethod="dist" maxCount="20" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
               <Effect atk="1.000000">
                 <AggroDiff value="0" />
                 <AngerDiff value="0" />
@@ -1938,7 +1938,7 @@
       <TargetingList>
         <Targeting id="-1" type="no" abnormalityOnHit="0" abnormalityOnHitProb="1.000000" alwaysSecondHit="false">
           <AreaList>
-            <Area type="enemyOrPvp" selectMethod="dist" maxCount="1" minRadius="0.000000" maxRadius="1000" rangeAngle="0.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="0.000000" maxHeight="60.000000" setRangeHeightToGround="false" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
+            <Area type="enemyOrPvp" selectMethod="dist" maxCount="1" minRadius="0.000000" maxRadius="0.000000" rangeAngle="0.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="0.000000" maxHeight="60.000000" setRangeHeightToGround="false" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
               <Effect atk="0.000000" abnormalityRate="0.000000">
                 <AggroDiff value="0" />
                 <AngerDiff value="0" />
@@ -1955,7 +1955,7 @@
         </Targeting>
         <Targeting abnormalityOnHit="0" alwaysSecondHit="true" type="second_hit" id="-1" mpBonusTypeB="100" mpBonusOnlyOne="true" stBonusTypeB="0" stBonusOnlyOne="true" abnormalityOnHitProb="1.000000">
           <AreaList>
-            <Area minRadius="0.000000" maxRadius="1000" rangeAngle="360.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="-40.000000" maxHeight="40.000000" setRangeHeightToGround="false" type="enemyOrPvp" selectMethod="dist" maxCount="20" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
+            <Area minRadius="0.000000" maxRadius="30.000000" rangeAngle="360.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="-40.000000" maxHeight="40.000000" setRangeHeightToGround="false" type="enemyOrPvp" selectMethod="dist" maxCount="20" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
               <Effect atk="1.000000">
                 <AggroDiff value="0" />
                 <AngerDiff value="0" />
@@ -2220,7 +2220,7 @@
       <TargetingList>
         <Targeting id="-1" type="no" abnormalityOnHit="0" abnormalityOnHitProb="1.000000" alwaysSecondHit="false">
           <AreaList>
-            <Area type="enemyOrPvp" selectMethod="dist" maxCount="1" minRadius="0.000000" maxRadius="1000" rangeAngle="0.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="0.000000" maxHeight="60.000000" setRangeHeightToGround="false" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
+            <Area type="enemyOrPvp" selectMethod="dist" maxCount="1" minRadius="0.000000" maxRadius="0.000000" rangeAngle="0.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="0.000000" maxHeight="60.000000" setRangeHeightToGround="false" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
               <Effect atk="0.000000" abnormalityRate="0.000000">
                 <AggroDiff value="0" />
                 <AngerDiff value="0" />
@@ -2237,7 +2237,7 @@
         </Targeting>
         <Targeting abnormalityOnHit="0" alwaysSecondHit="true" type="second_hit" id="-1" mpBonusTypeB="100" mpBonusOnlyOne="true" stBonusTypeB="0" stBonusOnlyOne="true" abnormalityOnHitProb="1.000000">
           <AreaList>
-            <Area minRadius="0.000000" maxRadius="1000" rangeAngle="360.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="-40.000000" maxHeight="40.000000" setRangeHeightToGround="false" type="enemyOrPvp" selectMethod="dist" maxCount="20" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
+            <Area minRadius="0.000000" maxRadius="30.000000" rangeAngle="360.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="-40.000000" maxHeight="40.000000" setRangeHeightToGround="false" type="enemyOrPvp" selectMethod="dist" maxCount="20" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
               <Effect atk="1.000000">
                 <AggroDiff value="0" />
                 <AngerDiff value="0" />
@@ -2502,7 +2502,7 @@
       <TargetingList>
         <Targeting id="-1" type="no" abnormalityOnHit="0" abnormalityOnHitProb="1.000000" alwaysSecondHit="false">
           <AreaList>
-            <Area type="enemyOrPvp" selectMethod="dist" maxCount="1" minRadius="0.000000" maxRadius="1000" rangeAngle="0.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="0.000000" maxHeight="60.000000" setRangeHeightToGround="false" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
+            <Area type="enemyOrPvp" selectMethod="dist" maxCount="1" minRadius="0.000000" maxRadius="0.000000" rangeAngle="0.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="0.000000" maxHeight="60.000000" setRangeHeightToGround="false" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
               <Effect atk="0.000000" abnormalityRate="0.000000">
                 <AggroDiff value="0" />
                 <AngerDiff value="0" />
@@ -2519,7 +2519,7 @@
         </Targeting>
         <Targeting abnormalityOnHit="0" alwaysSecondHit="true" type="second_hit" id="-1" mpBonusTypeB="100" mpBonusOnlyOne="true" stBonusTypeB="0" stBonusOnlyOne="true" abnormalityOnHitProb="1.000000">
           <AreaList>
-            <Area minRadius="0.000000" maxRadius="1000" rangeAngle="360.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="-40.000000" maxHeight="40.000000" setRangeHeightToGround="false" type="enemyOrPvp" selectMethod="dist" maxCount="20" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
+            <Area minRadius="0.000000" maxRadius="30.000000" rangeAngle="360.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="-40.000000" maxHeight="40.000000" setRangeHeightToGround="false" type="enemyOrPvp" selectMethod="dist" maxCount="20" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
               <Effect atk="1.000000">
                 <AggroDiff value="0" />
                 <AngerDiff value="0" />
@@ -2784,7 +2784,7 @@
       <TargetingList>
         <Targeting id="-1" type="no" abnormalityOnHit="0" abnormalityOnHitProb="1.000000" alwaysSecondHit="false">
           <AreaList>
-            <Area type="enemyOrPvp" selectMethod="dist" maxCount="1" minRadius="0.000000" maxRadius="1000" rangeAngle="0.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="0.000000" maxHeight="60.000000" setRangeHeightToGround="false" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
+            <Area type="enemyOrPvp" selectMethod="dist" maxCount="1" minRadius="0.000000" maxRadius="0.000000" rangeAngle="0.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="0.000000" maxHeight="60.000000" setRangeHeightToGround="false" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
               <Effect atk="0.000000" abnormalityRate="0.000000">
                 <AggroDiff value="0" />
                 <AngerDiff value="0" />
@@ -2801,7 +2801,7 @@
         </Targeting>
         <Targeting abnormalityOnHit="0" alwaysSecondHit="true" type="second_hit" id="-1" mpBonusTypeB="100" mpBonusOnlyOne="true" stBonusTypeB="0" stBonusOnlyOne="true" abnormalityOnHitProb="1.000000">
           <AreaList>
-            <Area minRadius="0.000000" maxRadius="1000" rangeAngle="360.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="-40.000000" maxHeight="40.000000" setRangeHeightToGround="false" type="enemyOrPvp" selectMethod="dist" maxCount="20" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
+            <Area minRadius="0.000000" maxRadius="30.000000" rangeAngle="360.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="-40.000000" maxHeight="40.000000" setRangeHeightToGround="false" type="enemyOrPvp" selectMethod="dist" maxCount="20" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
               <Effect atk="1.000000">
                 <AggroDiff value="0" />
                 <AngerDiff value="0" />
@@ -3066,7 +3066,7 @@
       <TargetingList>
         <Targeting id="-1" type="no" abnormalityOnHit="0" abnormalityOnHitProb="1.000000" alwaysSecondHit="false">
           <AreaList>
-            <Area type="enemyOrPvp" selectMethod="dist" maxCount="1" minRadius="0.000000" maxRadius="1000" rangeAngle="0.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="0.000000" maxHeight="60.000000" setRangeHeightToGround="false" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
+            <Area type="enemyOrPvp" selectMethod="dist" maxCount="1" minRadius="0.000000" maxRadius="0.000000" rangeAngle="0.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="0.000000" maxHeight="60.000000" setRangeHeightToGround="false" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
               <Effect atk="0.000000" abnormalityRate="0.000000">
                 <AggroDiff value="0" />
                 <AngerDiff value="0" />
@@ -3083,7 +3083,7 @@
         </Targeting>
         <Targeting abnormalityOnHit="0" alwaysSecondHit="true" type="second_hit" id="-1" mpBonusTypeB="100" mpBonusOnlyOne="true" stBonusTypeB="0" stBonusOnlyOne="true" abnormalityOnHitProb="1.000000">
           <AreaList>
-            <Area minRadius="0.000000" maxRadius="1000" rangeAngle="360.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="-40.000000" maxHeight="40.000000" setRangeHeightToGround="false" type="enemyOrPvp" selectMethod="dist" maxCount="20" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
+            <Area minRadius="0.000000" maxRadius="30.000000" rangeAngle="360.000000" offsetDistance="0.000000" offsetAngle="0.000000" rotateAngle="0.000000" minHeight="-40.000000" maxHeight="40.000000" setRangeHeightToGround="false" type="enemyOrPvp" selectMethod="dist" maxCount="20" aggroWhenNonOffensiveSkillHit="0" crosshairRadius="1" pierceDepth="1" time="0">
               <Effect atk="1.000000">
                 <AggroDiff value="0" />
                 <AngerDiff value="0" />
